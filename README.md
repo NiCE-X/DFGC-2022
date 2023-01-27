@@ -10,13 +10,13 @@ The DFGC-2022 dataset originates from [the Second DeepFake Game Competition ](ht
 
 The dataset is only for non-profit research usage. Applicants need to agree the terms and sign in the application form ([Google Form](https://forms.gle/kEQD6Q3AxLnXzxRR8) or [Tencent Form](https://wj.qq.com/s2/10464423/105d/)), and cite the following research in order to use this dataset.
 
-@misc{DFGC2022,  
-      title={DFGC 2022: The Second DeepFake Game Competition},   
-      author={Bo Peng and Wei Xiang and Yue Jiang and Wei Wang and Jing Dong and Zhenan Sun and Zhen Lei and Siwei Lyu},  
-      year={2022},  
-      eprint={2206.15138},  
-      archivePrefix={arXiv},  
-      primaryClass={cs.CV}  
+@inproceedings{peng2022dfgc,  
+  title={DFGC 2022: The Second DeepFake Game Competition},  
+  author={Peng, Bo and Xiang, Wei and Jiang, Yue and Wang, Wei and Dong, Jing and Sun, Zhenan and Lei, Zhen and Lyu, Siwei},  
+  booktitle={2022 IEEE International Joint Conference on Biometrics (IJCB)},  
+  pages={1--10},  
+  year={2022},  
+  organization={IEEE}  
 }
 
 ## The Creation Dataset
