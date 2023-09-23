@@ -1,3 +1,6 @@
+## News
+Along with the work [Visual Realism Assessment for Face-swap Videos](https://github.com/XianyunSun/VRA#reference), we release the DFGC-VRA benchmark dataset under the DFGC-2022 dataset folder. Please sign the forms below to apply this data.
+
 ## Overview
 The DFGC-2022 dataset originates from [the Second DeepFake Game Competition ](https://codalab.lisn.upsaclay.fr/competitions/2149#learn_the_details-overview) held with IJCB-2022. This competition provides a common platform for benchmarking the game between the current state-of-the-arts in DeepFake creation and detection methods. The overview of the competition and the dataset can be seen in the following figures and tables. We refer to the [competition summary paper](https://arxiv.org/abs/2206.15138) for more details. **This dataset has 4394 video clips in total, among which 2799 are face-swap DeepFake videos created with various methods, post-processing, and compressions. Researchers in both face-swap and DeepFake detection may find this dataset useful.** 
 
@@ -129,7 +132,9 @@ heavy compression, light compression and no compression. The "face-swap method" 
 | guanjz  | 0.9483 | 0.911     | 0.7461    | 0.8670  | 3    |
 
 ## Related Projects
+Code for the "Visual Realism Assessment for Face-swap Videos": https://github.com/XianyunSun/VRA
 
 DFGC-2022 detection track first place solution: https://github.com/chenhanch/DFGC-2022-1st-place
 
 DFGC-2021 starter-kit and released dataset: https://github.com/bomb2peng/DFGC_starterkit
+
